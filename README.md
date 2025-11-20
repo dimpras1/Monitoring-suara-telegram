@@ -35,3 +35,6 @@ If the room is noisy, a Telegram message is sent automatically.
 📬 Telegram Integration
 
 Uses a Bot Token and Chat ID from Telegram to send direct alerts—no server required.
+
+![WhatsApp Image 2025-11-20 at 21 04 58_29e50ecb](https://github.com/user-attachments/assets/96d0662c-9127-4b62-992a-e54eef0f2eca)
+
