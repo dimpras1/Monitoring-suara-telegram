@@ -16,12 +16,12 @@
 Adafruit_SH1106G display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
 // === WIFI ===
-const char* ssid = "fck messi";
-const char* password = "ronaldofreak";
+const char* ssid = "ssid";
+const char* password = "password";
 
 // === TELEGRAM ===
-String BOT_TOKEN = "8492550868:AAFeWgV43KaRah2iUH2t79QwM2bU2S0ddkk";
-String CHAT_ID = "5904921434";
+String BOT_TOKEN = "token fatherbot";
+String CHAT_ID = "idbot";
 
 // === NTP ===
 const char* ntpServer = "pool.ntp.org";
