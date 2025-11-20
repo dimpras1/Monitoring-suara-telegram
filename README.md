@@ -22,6 +22,9 @@ OLED 0.96" SSD1306 (optional)
 
 Jumper wires & breadboard
 
+![WhatsApp Image 2025-11-20 at 14 54 58_c7a7374a](https://github.com/user-attachments/assets/6ee38c20-2a54-4fea-b288-0bceef60a316)
+
+
 🧠 How It Works
 
 The microphone reads the sound level.
